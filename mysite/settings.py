@@ -25,7 +25,7 @@ SECRET_KEY = 'tv_2q6b94tekb90$whj^aq*kt8*ji4+r*@y^*hl+6(yro_g=h!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'roserogers.pythonanywhere.com']
 
 
 # Application definition
